@@ -149,5 +149,5 @@ For any questions or collaboration opportunities, feel free to reach out:
 
 - **Email**: aman_srivastava14@outlook.com
 - **LinkedIn**: [Aman Srivastava](https://www.linkedin.com/in/aman-srivastava-5b1068153/)
-- **GitHub**: [Azacus1](https://github.com/Azacus1)
+- **GitHub**: [Azacus1](https://github.com/InfiniteLoopster-coder/)
 
